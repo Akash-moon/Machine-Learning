@@ -1,0 +1,4 @@
+Terminal = ctrl + T
+markdown = ctrl + m
+inset cell below = ctrl + b
+inset cell above = ctrl + a
